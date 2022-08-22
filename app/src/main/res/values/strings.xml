@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">prework</string>
+    <string name="cam_intro">Hello World! My name is Cam Tran! I am a senior at UCI.</string>
+    <string name="button_text">Say Hello</string>
+</resources>
